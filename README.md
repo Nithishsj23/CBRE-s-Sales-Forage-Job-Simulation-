@@ -1,5 +1,3 @@
-# CBRE-s-Sales-Forage-Job-Simulation-
-
 🏢 About CBRE
 CBRE (Coldwell Banker Richard Ellis) is a Fortune 500 and S&P 500 company headquartered in Dallas, Texas. It is the world’s largest commercial real estate services and investment firm. CBRE helps clients buy, lease, and invest in assets with world-class insight and expertise.
 
